@@ -1,0 +1,13 @@
+xcompmgr &tint2 &
+
+#Conky
+conky &
+
+#Background
+feh --bg-scale ~/Wallpaper/lake.png &
+
+#Tap to click
+xinput set-prop 14 317 1 &
+
+#Brightness koma enam
+xrandr --output eDP-1 --brightness 0.6
